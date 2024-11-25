@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KohnDigital
 - 🌍 Germany
-- 🌱 I’m currently learning java,php, sql
+- 🌱 I’m currently learning java,python, sql
 - 💞️ I’m looking to collaborate on learning new skills
 
 
