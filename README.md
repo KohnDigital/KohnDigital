@@ -25,10 +25,10 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Speaking-Expert-brightgreen" alt="Speaking" data-canonical-src="https://img.shields.io/badge/Speaking-Expert-brightgreen" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Patience-Tireless-brightgreen" alt="Patience" data-canonical-src="https://img.shields.io/badge/Patience-Tireless-brightgreen" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Problem_Solving-Expert-brightgreen" alt="Problem Solving" data-canonical-src="https://img.shields.io/badge/Problem_Solving-Expert-brightgreen" style="max-width: 100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Python-OK-yellow" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-OK-yellow" style="max-width: 100%;"></a></td>
 <td align="center"></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Agil_Scrum-Good-brightgreen" alt="CyberSec" data-canonical-src="https://img.shields.io/badge/Agil_Scrum-Good-brightgreen" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Agile_Scrum-Good-brightgreen" alt="Agile_Scrum" data-canonical-src="https://img.shields.io/badge/Agile_Scrum-Good-brightgreen" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Searching-Good-brightgreen" alt="SearchExpert" data-canonical-src="https://img.shields.io/badge/Searching-Good-brightgreen" style="max-width: 100%;"></a></td>
